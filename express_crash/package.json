@@ -1,0 +1,16 @@
+{
+  "name": "express_crash",
+  "version": "1.0.0",
+  "description": "Express.js crash course project exploring backend development and all express features.",
+  "license": "MIT",
+  "author": "Harshit Samir Sonawala",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "node --watch server"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
