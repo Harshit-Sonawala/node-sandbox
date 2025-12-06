@@ -4,7 +4,7 @@
   "description": "Express.js crash course project exploring backend development and all express features.",
   "license": "MIT",
   "author": "Harshit Samir Sonawala",
-  "type": "commonjs",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node server",
